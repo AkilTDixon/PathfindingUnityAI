@@ -2,11 +2,11 @@
 
 An advanced AI programming assignment for COMP 476 at Concordia University, demonstrating progressive implementation of artificial intelligence concepts in the Unity Engine.
 
-## 🎯 Project Overview
+## Project Overview
 
 This project showcases the evolution of AI behaviors from basic seek mechanics to sophisticated multi-agent systems with custom pathfinding, dynamic obstacle avoidance, and complex decision-making algorithms. The implementation covers fundamental AI concepts including pathfinding, decision trees, field of view systems, and multi-agent coordination.
 
-## 🚀 Key Features
+## Key Features
 
 ### Core AI Systems
 - **Custom Recursive Pathfinding Algorithm** - Self-implemented obstacle avoidance system
@@ -21,7 +21,7 @@ This project showcases the evolution of AI behaviors from basic seek mechanics t
 - **Prisoner Rescue Mechanics** - Multi-step objective completion system
 - **Dynamic Wall Navigation** - Adaptive pathfinding for moving obstacles
 
-## 📋 Task Progression
+## Task Progression
 
 ### Task 1 - Basic Seek Behavior
 **Simple AI Movement and Target Acquisition**
@@ -73,7 +73,7 @@ The most advanced implementation featuring dynamic walls, multiple AI agents, an
 - **Guardian Luring Mechanics**: Strategic gameplay where Hero leads Guardians to destruction zones
 - **Enhanced Pathfinding**: Improved algorithm with better obstacle handling and escape route calculation
 
-## 🛠️ Technical Implementation
+## Technical Implementation
 
 ### Pathfinding Algorithm
 The custom pathfinding system uses recursive raycasting with the following approach:
@@ -96,7 +96,7 @@ The custom pathfinding system uses recursive raycasting with the following appro
 - Dynamic vision range and angle adjustments
 - Multi-agent vision coordination
 
-## 🎮 Gameplay Mechanics
+## Gameplay Mechanics
 
 ### Hero AI
 - Rescues prisoners and returns them to base
@@ -115,7 +115,7 @@ The custom pathfinding system uses recursive raycasting with the following appro
 - AI agents detect and respond to player presence
 - Dynamic difficulty based on player actions
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Assets/
@@ -128,7 +128,7 @@ Assets/
 └── Materials/           # Visual materials and textures
 ```
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 This project helped provide experience with:
 - **AI Programming Fundamentals**: Steering behaviors, state machines, and decision trees
@@ -137,14 +137,14 @@ This project helped provide experience with:
 - **Game AI Design**: Balancing challenge and player experience
 - **Unity Engine**: Advanced scripting and component systems
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Open the project in Unity 2020.3.18f1 or later
 2. Navigate to the desired task scene (Task 1, Task 6, or Task 10)
 3. Press Play to observe the AI behaviors
 4. For Task 10, use WASD keys to control the player character
 
-## 📊 Technical Specifications
+## Technical Specifications
 
 - **Engine**: Unity Editor 2020.3.18f1
 - **Language**: C#
